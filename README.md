@@ -1,2 +1,2 @@
 # my_test
-Repoitory de test
+Repository de test
